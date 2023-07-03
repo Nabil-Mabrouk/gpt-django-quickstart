@@ -22,7 +22,7 @@ There are approximately 13 million word tokens in the English language, but they
 
 To achieve this, we use the embedding layer. This layer converts input text into numerical representations called embeddings. It maps each token to a dense vector representation, capturing semantic and contextual information. The embeddings serve as the foundation for the model to comprehend and process language effectively.
 
-In Python, you can use word embeddings libraries like Word2Vec, GloVe, or fastText to obtain vector representations for words. These libraries provide pre-trained embeddings or allow you to train your own embeddings on a given text corpus.
+>**_Note:_** In Python, you can use word embeddings libraries like Word2Vec, GloVe, or fastText to obtain vector representations for words. These libraries provide pre-trained embeddings or allow you to train your own embeddings on a given text corpus.
 
 ### Transformer Encoder Layers
 
@@ -41,7 +41,7 @@ The feed-forward networks help in refining the features learned through self-att
 
 In summary, self-attention mechanisms enable the model to focus on relevant parts of the input sequence, capturing dependencies between tokens, while feed-forward neural networks further process the attended information, applying non-linear transformations. Together, these components enhance the model's ability to understand the context and relationships within the input data.
 
-In Python, you can implement these components using deep learning frameworks such as PyTorch or TensorFlow. Self-attention can be implemented using classes like nn.MultiheadAttention, and feed-forward neural networks can 
+>**_Note:_** In Python, you can implement these components using deep learning frameworks such as PyTorch or TensorFlow. Self-attention can be implemented using classes like nn.MultiheadAttention, and feed-forward neural networks can 
 be implemented using fully connected layers (nn.Linear).
 
 ### Positional Encoding
@@ -64,5 +64,5 @@ The purpose of the output layer is to transform these contextualized representat
 The additional output layer is necessary because transformers are primarily designed for tasks like language modeling, where the goal is to predict the most likely next token given the context. By converting the contextualized representations into a probability distribution, the model can generate coherent and meaningful sequences.
 So, while transformers excel at capturing contextual relationships, the output layer provides the necessary transformation to generate probabilities over the vocabulary, facilitating the generation of coherent and accurate sequences.
 
-In Python, you can use a fully connected layer (nn.Linear) followed by a softmax activation function to compute the probabilities of the next token. The output layer takes the hidden representations from the transformer 
+>**_Note:_** In Python, you can use a fully connected layer (nn.Linear) followed by a softmax activation function to compute the probabilities of the next token. The output layer takes the hidden representations from the transformer 
 encoder layers and produces the final predictions.
