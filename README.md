@@ -3,8 +3,8 @@ This is a comprehensive guide on using GPT and Django to build AI-powered web ap
 
 ## Table of Contents
 Chapter 1: Introduction
-Chapter 2: Understanding GPT and Django
-Chapter 3: Designing the Template
+Chapter 2: Understanding GPT models
+Chapter 3: Designing a Django Template
 Chapter 4: Example Business 1: Financial Data Analysis
 Chapter 5: Example Business 2: AI-powered Expert
 Chapter 6: Example Business 3: AI-powered Web Scraper
@@ -15,10 +15,10 @@ Chapter 9: Conclusion
 ## Chapter 1: Introduction
 In this chapter, you will be introduced to the book's topic and gain an understanding of the importance of GPT and Django in the context of web development and AI. The chapter outlines the goals and objectives of the book, highlighting how it can benefit readers in their journey of building AI-driven web applications.
 
-## Chapter 2: Understanding GPT and Django
+## Chapter 2: Understanding GPT models
 This chapter delves into the fundamentals of GPT and Django. It provides a detailed explanation of what GPT is, how it works, and its applications in natural language processing (NLP). Similarly, it explores the Django framework, its key features, and how it facilitates web development. The chapter emphasizes the synergies between GPT and Django and how they can be combined to create powerful AI-driven web applications.
 
-## Chapter 3: Designing the Template
+## Chapter 3: Designing a Django Template
 In this chapter, you will learn about the importance of designing an appealing and user-friendly template for web applications built with Django. The chapter covers topics such as structuring the template, utilizing CSS and HTML, and incorporating dynamic elements using Django's template language. It provides examples and best practices for designing templates that enhance the user experience.
 
 ## Chapter 4: Example Business 1: Financial Data Analysis
