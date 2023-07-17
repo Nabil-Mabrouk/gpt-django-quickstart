@@ -1,14 +1,15 @@
 # Chapter 2: Understanding GPT and Django
 
 [Back to main summary](../README.md)
+
 ## Table of Contents
-1. [GPT models] (#sec1)
-    1. [Input Embedding Layer] (#sec1_1)
-    2. [Transformer Encoder Layers] (#sec1_2)
-        1. [Self-Attention Mechanism] (#sec1_2_1)
-        2. [Feed-Forward Neural Networks] (#sec1_2_2)
-    3. [Positional Encoding] (#sec1_3)
-    4. [Output Layer] (#sec1_4)
+1. [GPT models](#sec1)
+    1. [Input Embedding Layer](#sec1_1)
+    2. [Transformer Encoder Layers](#sec1_2)
+        1. [Self-Attention Mechanism](#sec1_2_1)
+        2. [Feed-Forward Neural Networks](#sec1_2_2)
+    3. [Positional Encoding](#sec1_3)
+    4. [Output Layer](#sec1_4)
 
 
 In this chapter, we will explore the fascinating world of GPT (Generative Pre-trained Transformer) models and discover their immense potential in building innovative applications. GPT models have emerged as a breakthrough in natural language processing (NLP), demonstrating the ability to generate human-like text with remarkable coherence and context awareness.

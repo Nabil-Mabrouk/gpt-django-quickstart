@@ -2,8 +2,8 @@
 This is a comprehensive guide on using GPT and Django to build AI-powered web applications. The book provides step-by-step instructions, code examples, and real-world use cases to help readers understand the integration of GPT and Django and leverage their capabilities for various business applications.
 
 ## Table of Contents
-1. [Introduction](#chapter1-Introduction/ch1.md)
-2. [Understanding GPT models](#chapter2-understanding-GPT/ch2.md)
+1. [Introduction](chapter1-Introduction/ch1.md)
+2. [Understanding GPT models](chapter2-understanding-GPT/ch2.md)
 3. [Designing a Django Template](#ch3)
 4. [Example Business 1: Financial Data Analysis](#ch4)
 5. [Example Business 2: AI-powered Expert](#ch5)

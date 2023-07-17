@@ -1,4 +1,5 @@
 # Chapter 1: Introduction
+[Back to main summary](../README.md)
 
 Once upon a time, in a bustling city filled with aspiring entrepreneurs and innovative minds, there lived a young visionary named Alex. Alex, fueled by boundless creativity and a burning passion for business, found themselves constantly brainstorming unique ideas that could revolutionize industries and touch people's lives.
 
