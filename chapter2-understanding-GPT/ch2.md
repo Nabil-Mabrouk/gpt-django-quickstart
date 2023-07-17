@@ -40,10 +40,8 @@ Alternatively, you can train your own word embeddings on a specific text corpus 
 
 >**_Note:_** In Python, you can use word embeddings libraries like Word2Vec, GloVe, or fastText to obtain vector representations for words. These libraries provide pre-trained embeddings or allow you to train your own embeddings on a given text corpus.
 
-```python
 
-
-```
+>**Note**: See this notebook for tutorial with code in python on how to set a custom embedding model and how to use it with openAI GPT to answer questions about facts that occured after 2021 : [Tutorial Embedding models with Word2Vec](src/custom_embeddings.ipynb)
 
 
 ### Transformer Encoder Layers <a name="sec1_2"></a>
