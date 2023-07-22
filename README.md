@@ -4,7 +4,7 @@ This is a comprehensive guide on using GPT and Django to build AI-powered web ap
 ## Table of Contents
 1. [Introduction](chapter1-Introduction/ch1.md)
 2. [Understanding GPT models](chapter2-understanding-GPT/ch2.md)
-3. [Designing a Django Template](#ch3)
+3. [Designing a Django Template](chapter3-Django-template/ch3.md)
 4. [Example Business 1: Financial Data Analysis](#ch4)
 5. [Example Business 2: AI-powered Expert](#ch5)
 6. [Example Business 3: AI-powered Web Scraper](#ch6)
